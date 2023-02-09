@@ -24,13 +24,13 @@
   
   <div>
     <a href="https://www.instagram.com/jeffersonjoseane/" target="_blank">
-      <img height="40me" width="200me" style="padding-right: 10px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
+      <img height="40me" width="200me" style="padding-right: 10px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="">
     </a>
     <a href="https://www.facebook.com/Jefferson.Joseane/" target="_blank">
-      <img height="40me" width="200me" style="padding-right: 10px;" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="">
+      <img height="40me" width="200me" style="padding-right: 10px;" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" alt="">
     </a>
     <a href="https://www.linkedin.com/in/jefferson-sena-0b347a232/" target="_blank">
-      <img height="40me" width="200me" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+      <img height="40me" width="200me" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="">
     </a>
  </div>
 
