@@ -2,8 +2,8 @@
 
  <div>
     <a href="https://github.com/jeffersonsena7">
-    <img height="250me"center src="https://github-readme-stats.vercel.app/api?username=jeffersonsena7&show_icons=true&theme=tokyonight" alt="">
-    <img height="250me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsena7&_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats" alt="">
+    <img height="180me"center src="https://github-readme-stats.vercel.app/api?username=jeffersonsena7&show_icons=true&theme=tokyonight" alt="">
+    <img height="180me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsena7&_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats" alt="">
     </a>
   </div>
 
