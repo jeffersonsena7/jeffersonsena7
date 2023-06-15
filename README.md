@@ -3,9 +3,10 @@
  <div>
     <a href="https://github.com/jeffersonsena7">
     <img height="180me"center src="https://github-readme-stats.vercel.app/api?username=jeffersonsena7&show_icons=true&theme=tokyonight" alt="">
-    <img height="180me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsena7&_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats" alt="">
-    </a>
+          <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsena7&layout=compact&langs_count=7&theme=dracula"/>
+   </a>
   </div>
+
 
   <div style="display: inline-block;"><br>
     <img alingn="cente" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -32,7 +33,7 @@
     <a href="https://www.linkedin.com/in/jefferson-sena-0b347a232/" target="_blank">
       <img height="40me" width="200me" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="">
     </a>
- </div>
+   </div>
 
 
 
